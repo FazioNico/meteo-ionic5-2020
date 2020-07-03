@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1593766962121,
+  "timestamp": 1593767179239,
   "index": "/meteo-ionic5-2020/index.html",
   "assetGroups": [
     {
@@ -182,8 +182,8 @@
         "/meteo-ionic5-2020/common-es5.787fed6c88942b571d48.js",
         "/meteo-ionic5-2020/favicon.ico",
         "/meteo-ionic5-2020/index.html",
-        "/meteo-ionic5-2020/main-es2015.f7de9a550345935b0696.js",
-        "/meteo-ionic5-2020/main-es5.f7de9a550345935b0696.js",
+        "/meteo-ionic5-2020/main-es2015.b03c56935597b958d538.js",
+        "/meteo-ionic5-2020/main-es5.b03c56935597b958d538.js",
         "/meteo-ionic5-2020/manifest.webmanifest",
         "/meteo-ionic5-2020/polyfills-core-js-es2015.ce47e0beaa8754f121dc.js",
         "/meteo-ionic5-2020/polyfills-core-js-es5.ce47e0beaa8754f121dc.js",
@@ -399,9 +399,9 @@
     "/meteo-ionic5-2020/common-es2015.787fed6c88942b571d48.js": "2634c6f1e6055c8b0aa4f38c54faea50c26a352c",
     "/meteo-ionic5-2020/common-es5.787fed6c88942b571d48.js": "4f16208880f1e36208abbe684c332346fa3d5599",
     "/meteo-ionic5-2020/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/meteo-ionic5-2020/index.html": "66129286a252c3ca939416c9453aed14b2545ae2",
-    "/meteo-ionic5-2020/main-es2015.f7de9a550345935b0696.js": "fb247f2fec06a78bf7a362e61c6d2d407b850e5d",
-    "/meteo-ionic5-2020/main-es5.f7de9a550345935b0696.js": "a40298432888f7278a5a3704f99b3f83d58ad29a",
+    "/meteo-ionic5-2020/index.html": "b6e4dd7f3455e3415853ba496128e93a80b5dc7a",
+    "/meteo-ionic5-2020/main-es2015.b03c56935597b958d538.js": "036ca6c40b2ee8e1029ff26bc05bd025403d16f8",
+    "/meteo-ionic5-2020/main-es5.b03c56935597b958d538.js": "87929e22eff5168dc6b26cd77580c2bb5260caba",
     "/meteo-ionic5-2020/manifest.webmanifest": "c14daaa657dc28b311603de0cb2a7f6228f4d168",
     "/meteo-ionic5-2020/polyfills-core-js-es2015.ce47e0beaa8754f121dc.js": "fe18301772fedd9faed9155d0253b25bad547329",
     "/meteo-ionic5-2020/polyfills-core-js-es5.ce47e0beaa8754f121dc.js": "2238555b018c094b6a5445b2ea64d26959264b3a",
